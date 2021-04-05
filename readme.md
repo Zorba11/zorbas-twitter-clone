@@ -1,5 +1,5 @@
------- BACK-END ------
-NodeJS
+------ BACK-END ------ \
+NodeJS \
 GraphQL
 Prisma
 Postgres
