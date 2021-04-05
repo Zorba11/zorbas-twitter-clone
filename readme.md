@@ -3,13 +3,13 @@ NodeJS \
 GraphQL \
 Prisma \
 Postgres \
-Typescript \
+Typescript 
 
 ------ FRONT-END ------ \
 React \
 Appolo-Client \
-Typescript \
+Typescript 
 
 ---- CI/CD Pipeline implementation---- \
 Jenkins \
-Docker \
+Docker 
