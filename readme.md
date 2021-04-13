@@ -12,4 +12,5 @@ Typescript
 
 ---- CI/CD Pipeline implementation---- \
 Jenkins \
-Docker 
+Docker \
+AWS EC2
